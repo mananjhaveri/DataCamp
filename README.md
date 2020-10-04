@@ -9,4 +9,5 @@ This repository has all my [DataCamp](https://www.datacamp.com/profile/mananjhav
 | `Dr. Semmelweis and the discovery of handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: Handwashing. | EDA, Case Study |
 |`Give Life_Predict Blood Donations` | Build a binary Classifier to predict if a blood donor is likely to donate again. | ML |
 | `Name Game: Gender Prediction using Sound` | Analyze the gender distribution of children's book writers and use sound to match names to gender. | EDA, ML |
+|`Risk and Returns_The Sharpe Ratio` | Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio. |
 | `The Hottest Topics in Machine Learning` | Use Natural Language Processing on NIPS papers to uncover the trendiest topics in machine learning research. | EDA, Case Study |
